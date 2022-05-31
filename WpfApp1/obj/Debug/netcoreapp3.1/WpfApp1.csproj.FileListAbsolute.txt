@@ -21,3 +21,5 @@ C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\Window
 C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\WindowRole.g.cs
 C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\WindowEmployee.baml
 C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\WindowRole.baml
+C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\WindowNewRole.baml
+C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\View\WindowNewRole.g.cs
