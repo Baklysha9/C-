@@ -13,6 +13,9 @@
     <Page Update="View\WindowEmployee.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="View\WindowNewEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\WindowNewRole.xaml">
       <SubType>Designer</SubType>
     </Page>

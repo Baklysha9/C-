@@ -84,7 +84,7 @@ namespace WpfApplDemo2018.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApp1;component/view/windownewrole.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfApp1;V1.0.0.0;component/view/windownewrole.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\WindowNewRole.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

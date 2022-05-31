@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\Andrey\source\repos\WpfApp1\WpfApp1\App.xaml
-4-1814860685
+5-323168517
 
-121810486171
+13-406694412
 1921654412462
-MainWindow.xaml;View\WindowEmployee.xaml;View\WindowNewRole.xaml;View\WindowRole.xaml;
+MainWindow.xaml;View\WindowEmployee.xaml;View\WindowNewEmployee.xaml;View\WindowNewRole.xaml;View\WindowRole.xaml;
 
-False
+True
 
